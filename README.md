@@ -1,2 +1,2 @@
 # List
-this is list of git and github
+this is list of git and github.
